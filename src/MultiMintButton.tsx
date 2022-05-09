@@ -12,6 +12,7 @@ export const CTAButton = styled(Button)`
   background-color: var(--title-text-color) !important;
   min-width: 120px !important;
   font-size: 1em !important;
+  font-family: 'Chakra Petch', cursive;
 `;
 
 export const Minus = styled.button`
@@ -27,7 +28,7 @@ export const Minus = styled.button`
   border: 0;
   border-radius: 50%;
   box-sizing: border-box;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Chakra Petch', cursive;
   vertical-align: middle;
 
   :not(disabled) {
@@ -51,7 +52,7 @@ export const NumericField = styled.input`
   background-color: var(--main-text-color);
   box-shadow: 0px 3px 5px -1px rgb(0 0 0 / 20%), 0px 6px 10px 0px rgb(0 0 0 / 14%), 0px 1px 18px 0px rgb(0 0 0 / 12%);
   box-sizing: border-box;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Chakra Petch', cursive;
   font-weight: 500;
   line-height: 1;
   border-radius: 8px;

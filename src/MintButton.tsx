@@ -11,6 +11,7 @@ export const CTAButton = styled(Button)`
   margin: 0 auto !important;
   background-color: var(--title-text-color) !important;
   min-width: 120px !important;
+  font-family: 'Chakra Petch', cursive;
   font-size: 1em !important;
 `;
 
